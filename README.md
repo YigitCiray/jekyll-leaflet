@@ -13,3 +13,7 @@ Embed leatlet.js maps in Jekyll. As simple as:
 ```
 
 ![](./docs/assets/screenshot.png)
+
+
+
+
